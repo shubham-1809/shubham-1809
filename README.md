@@ -3,15 +3,19 @@
 
 - 🔭 I’m currently working on **MS Dynamics AX 2012 ERP System.**
 
-- 🌱 I’m currently learning **Node.js, Express.js, JavaScript, System Design, Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Node.js, Express.js, JavaScript, System Design, Data Structures, Algorithm.**
 
 - 💬 Ask me about **C++, Data Structures, Algorithm, System Design, Backend Development.**
 
 - 📫 How to reach me **shubhamchouksey1809@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1MJtfsfAFJyRxSMgLRzGu4niDbpEN-Fr3/view?usp=drive_link](https://drive.google.com/file/d/1MJtfsfAFJyRxSMgLRzGu4niDbpEN-Fr3/view?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubham-chouksey-93343914a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-chouksey-93343914a" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/__shubhu__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="__shubhu__" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/user/shubhamchouksey1809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/shubhamchouksey1809" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
