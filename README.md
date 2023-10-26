@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shubhamchouksey1809@gmail.com**
 
-- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/19lyULFHwf9rLw43VQ0mV5sVdTeDmG-8_/view?usp=sharing"> <b> Resume Link </b>
+- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1RmWfqLxgRuLiPz_4ZWQ42QoCa1Ni-4ev/view?usp=sharing&usp=embed_facebook"> <b> Resume Link </b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
