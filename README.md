@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham Chouksey</h1>
+![image](https://github.com/shubham-1809/shubham-1809/assets/135697559/8615482a-6bf6-4adf-9039-6b3730032b30)<h1 align="center">Hi 👋, I'm Shubham Chouksey</h1>
 <h3 align="center">I am currently working as a System Engineer in TCS</h3>
 
 - 🔭 I’m currently working on **MS Dynamics AX 2012 ERP(Enterprise Resource Planning) System.**
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shubhamchouksey1809@gmail.com**
 
-- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1RmWfqLxgRuLiPz_4ZWQ42QoCa1Ni-4ev/view?usp=sharing&usp=embed_facebook"> <b> Resume Link </b>
+- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1YeImZarFrihnVogHt5ZyN_qgXFZbP5VR/view?usp=drive_link"> <b> Resume Link </b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
