@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **shubhamchouksey1809@gmail.com**
 
-- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1YeImZarFrihnVogHt5ZyN_qgXFZbP5VR/view?usp=drive_link"> <b> Resume Link </b>
+- 📄 Know about my experiences <a href = "https://shubham-1809.github.io/My-Personal-Portfolio/"> <b> Engineer's Palette (Personal Portfolio) </b>
+
+- 📄 My Resume <a href = "https://drive.google.com/file/d/1l1GcMfx9Y2YpLYWsakAJVU7J7WDYtUkF/view?usp=sharing&usp=embed_facebook"> <b> Link </b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
