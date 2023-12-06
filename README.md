@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences <a target = "_blank" href = "https://shubham-1809.github.io/My-Personal-Portfolio/"> <b> Engineer's Palette (Personal Portfolio) </b>
 
-- 🎯 My Resume <a target = "_blank" href = "https://drive.google.com/file/d/1fCSz3NFh8-LjnK3GHcSaHM_TqsXLzEtX/view"> <b> Link </b>
+- 🎯 My Resume <a target = "_blank" href = "https://drive.google.com/file/d/1fCSz3NFh8-LjnK3GHcSaHM_TqsXLzEtX/view?usp=sharing"> <b> Link </b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
