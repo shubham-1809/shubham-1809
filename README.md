@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Chouksey</h1>
-<h3 align="center">I am currently working as a System Engineer in TCS</h3>
+<h3 align="center">I am currently working as a System Backend Engineer in TCS</h3>
 
-- 🔭 I’m currently working on **MS Dynamics AX 2012 ERP(Enterprise Resource Planning) System.**
+- 🔭 I’m currently working on **Internal Project of TCS - Backend Developmnt.**
 
 - 🌱 I’m currently learning **Node.js, Express.js, JavaScript, System Design, Data Structures and Algorithms.**
 
