@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shubham Chouksey</h1>
-<h3 align="center">I am currently working as a System Backend Engineer in TCS</h3>
+<h3 align="center">I am currently working as an Associate Technical Consultant in Perficient</h3>
 
-- 🔭 I’m currently working on **Internal Project of TCS - Backend Developmnt.**
+- 🔭 I’m currently working on **Internal Project of Perficient - .NET Backend Developer.**
 
-- 🌱 I’m currently learning **Node.js, Express.js, JavaScript, System Design, Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Design Patterns, Microservices, HLD, LLD.**
 
-- 💬 Ask me about **C++, Data Structures, Algorithms, System Design and Backend Development.**
+- 💬 Ask me about **C#, .NET Core, EF Core.**
 
 - 📫 How to reach me **shubhamchouksey1809@gmail.com**
 
 - 📄 Know about my experiences <a target = "_blank" href = "https://shubham-1809.github.io/My-Personal-Portfolio/"> <b> Engineer's Palette (Personal Portfolio) </b>
 
-- 🎯 My Resume <a target = "_blank" href = "https://drive.google.com/file/d/1Gqj3U8da77QkSzOuj5wr5rrOsTxO1JlP/view?usp=sharing&usp=embed_facebook"> <b> Link </b>
+- 🎯 My Resume <a target = "_blank" href = "[https://drive.google.com/file/d/1Gqj3U8da77QkSzOuj5wr5rrOsTxO1JlP/view?usp=sharing&usp=embed_facebook](https://drive.google.com/file/d/1dR4VtzHm0amOGpc2WjrRie2H6k1WL89b/view?usp=sharing)"> <b> Link </b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
